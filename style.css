@@ -1,0 +1,36 @@
+.icons{
+    background: url(images/icons.png);
+    height: 30px;
+    width: 30px;
+    background-size: 80px;
+    background-position-y: 29px;
+}
+
+.editor{
+    background-position-x: 2px;  
+}
+
+.settings{
+    background-position-x: 55px;
+}
+.newfile{
+    background-position-x: 27px;
+
+}
+.page{
+    background: url(images/page.png);
+    height: 25px;
+    width: 28px;
+    background-size: 34px;
+    background-position-x: -4px;
+}
+.h{
+    height: 60px;
+}
+
+.bg-gradient{
+    background-image: linear-gradient(to bottom, #f4f4f4, #dadada);
+}
+.bg-custom{
+    background-color: #eef1f3;
+}
